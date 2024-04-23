@@ -1,0 +1,32 @@
+NCBI,https://www.ncbi.nlm.nih.gov/
+PUBCHEM,https://pubchem.ncbi.nlm.nih.gov/
+PDB ,https://www.rcsb.org/
+UNIPORT,https://www.uniprot.org/
+STRING DATABASE,https://string-db.org/
+KEGG DATABASE,https://www.genome.jp/kegg/
+GENBANK DATABASE,https://www.ncbi.nlm.nih.gov/genbank/
+GOLD,https://gold.jgi.doe.gov/
+EMBL,https://www.ebi.ac.uk/
+ExPASY,https://www.expasy.org/
+MMDB,https://www.ncbi.nlm.nih.gov/Structure/MMDB/docs/mmdb_help.html
+PUBMED,https://pubmed.ncbi.nlm.nih.gov/
+GEO,https://www.ncbi.nlm.nih.gov/geo/
+OMIM,https://www.omim.org/
+PIR,https://proteininformationresource.org/
+DDBJ,https://www.ddbj.nig.ac.jp/index-e.html
+BLAST,https://blast.ncbi.nlm.nih.gov/Blast.cgi
+CLUSTALW,https://www.genome.jp/tools-bin/clustalw
+ORF,https://www.ncbi.nlm.nih.gov/orffinder/
+YPD,https://ngdc.cncb.ac.cn/databasecommons/database/id/5326
+MELANIE ,https://www.expasy.org/resources/melanie
+COG,https://www.ncbi.nlm.nih.gov/research/cog
+PHYLIP,https://phylipweb.github.io/phylip/
+GENSCAN,http://hollywood.mit.edu/GENSCAN.html
+GEN MARKER,http://topaz.gatech.edu/GeneMark/
+GENEWISE,https://www.ebi.ac.uk/jdispatcher/psa/genewise
+SWISS-2DPAGE,https://world-2dpage.expasy.org/swiss-2dpage/
+dbEST,https://www.ncbi.nlm.nih.gov/genbank/dbest/
+VAST,https://structure.ncbi.nlm.nih.gov/Structure/VAST/vast.shtml
+DBGET,https://www.genome.jp/en/gn_dbget.html
+PROSITE,https://prosite.expasy.org/
+DOTLET,https://myhits.sib.swiss/cgi-bin/dotlet
